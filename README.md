@@ -1,4 +1,6 @@
-# ⚡ Low Latency
+# ⚡ Performance Tuning
+
+This repository collects low-level system tuning notes and selected runtime-level tuning references.
 
 ## Index
 
@@ -57,5 +59,18 @@
   <tr>
     <td valign="middle" align="left"><b>General</b></td>
     <td valign="middle" align="right" width="220"><a href="SYSTEMD-GENERAL.md"><img alt="SYSTEMD-GENERAL" src="https://img.shields.io/badge/GENERAL-7c3aed?style=for-the-badge&logo=systemd&logoColor=white"></a></td>
+  </tr>
+</table>
+
+### JVM
+
+<table width="100%">
+  <tr>
+    <th align="left">Topic</th>
+    <th align="right">Badge ↗</th>
+  </tr>
+  <tr>
+    <td valign="middle" align="left"><b>G1GC</b></td>
+    <td valign="middle" align="right" width="220"><a href="JVM-G1GC.md"><img alt="JVM G1GC" src="https://img.shields.io/badge/G1GC-f97316?style=for-the-badge&logo=openjdk&logoColor=white"></a></td>
   </tr>
 </table>
